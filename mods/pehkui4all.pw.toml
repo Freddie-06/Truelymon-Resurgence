@@ -1,0 +1,13 @@
+name = "Pehkui4All"
+filename = "pehkui4all-1.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96fd8d58e5b2761a473fa272ee34fb57e6a7c690"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7855526
+project-id = 1067531
