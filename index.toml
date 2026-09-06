@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "ebff06599ceb7eda53306d162299abeababe71d5e41cb424511991dbbd92d455"
+hash = "01bc76f51f4f292863196ee1d87266c8ad30ba35a86eee11c4bc1563d4071f23"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/packwiz-modpack-loader.pw.toml"
-hash = "9e7fc2efc9377339c5831cbf20c84327cf7237e6dad3578c97792a4858a372f5"
+hash = "34fc4d484605a6ad67fcce516a8635bc3f9662271c2d0d3fb39d7e89f5c63037"
 metafile = true
 
 [[files]]
