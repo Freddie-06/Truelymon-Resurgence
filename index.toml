@@ -121,6 +121,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/matthiesen-core.pw.toml"
+hash = "a0569fe9bac12b2227fd5f9faf9707f9e994318918b7aecc4a82be6b63879f88"
+metafile = true
+
+[[files]]
 file = "mods/modular-backpacks.pw.toml"
 hash = "655982d211ae12ccd1253b48a97e8d2c69dc2d7401afcc62ea4340ff5c54612f"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-ard.pw.toml"
+hash = "137552e328dc75addc775d459f550bcf8c461ac9ba3f4d244e74b6b1c31bca61"
 metafile = true
 
 [[files]]
