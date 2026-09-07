@@ -41,11 +41,6 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "01bc76f51f4f292863196ee1d87266c8ad30ba35a86eee11c4bc1563d4071f23"
-metafile = true
-
-[[files]]
 file = "mods/continents.pw.toml"
 hash = "a516cae54142a38262b5b0163a30e119df844ee4bd11ad1cbea5accbc0334540"
 metafile = true
@@ -96,11 +91,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -131,6 +121,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/matthiesen-lib-api.pw.toml"
+hash = "e0764345e3666b05bb452eb81d5f14ea1496269b0e1c2da78dc7997ac2d38db3"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
@@ -156,8 +151,8 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-modpack-loader.pw.toml"
-hash = "34fc4d484605a6ad67fcce516a8635bc3f9662271c2d0d3fb39d7e89f5c63037"
+file = "mods/packwiz-ard.pw.toml"
+hash = "7c939da8d2dc01aee60e95aafca5f4b263e2f0fa72c0ea634f232cf7055cade4"
 metafile = true
 
 [[files]]
