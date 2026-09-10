@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
+hash = "c2eab14bd04e6c28d4c48d2a70957aeeb31cfb479afe0675f6ce2c8854595ef4"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+hash = "59ca6194da3994e9db4d68873ee277e93d51b4eaacccd84ea93ec3e52238175b"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+hash = "be647e46d0d089a21123bcf17b236a2a0104d988c7bbc715daf6e37b3a7a0d74"
 metafile = true
 
 [[files]]
